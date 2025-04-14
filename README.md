@@ -1,4 +1,7 @@
-# Proyecto: Registro de Votantes - Registraduría 🗳️
+# INTEGRANTES:
+-Brandon Eduardo Merchan Sandoval
+
+# Proyecto: Registro de Votantes - Registraduría 
 
 Este proyecto implementa una solución basada en TDDpara la registraduría nacional. El sistema permite registrar personas que desean votar, donde se valida si son elegibles según ciertos criterios.
 
